@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+transformers
+sentence-transformers
+
+
+accelerate
+
