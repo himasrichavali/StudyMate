@@ -3,6 +3,7 @@ pymupdf
 transformers
 sentence-transformers
 
+PyPDF2
 
 accelerate
 
